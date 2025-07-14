@@ -8,3 +8,4 @@ The findings highlight key traits of harmful domains and contribute to a deeper 
 
 ## 🙌 Acknowledgments
 Thanks to Chrysoula Katsika co owner of the project and Aalborg University.
+All contents of this project was done as educational thesis at Aalborg University and belongs to Aalborg University.
